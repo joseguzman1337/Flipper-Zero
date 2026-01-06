@@ -38,7 +38,7 @@ jobs:
       with:
         egress-policy: audit
 
-    - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5
+    - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6
     - name: Build a Docker image
       run: docker build -t your/image-to-test .
     - name: Run Snyk to check Docker image for vulnerabilities
