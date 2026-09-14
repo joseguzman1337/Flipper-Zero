@@ -26,8 +26,6 @@ It loves hacking digital stuff like radio protocols, access control systems, and
 [Momentum](https://momentum-fw.dev/)\
 [Unleashed](https://github.com/DarkFlippers/unleashed-firmware)\
 [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)\
-[Xtreme](https://github.com/ClaraCrazy/Flipper-Xtreme)\
-[Dexvmaster0](https://github.com/DXVVAY/Dexvmaster0)\
 [v1nc](https://github.com/v1nc/flipperzero-firmware)\
 [Wetox=](https://github.com/wetox-team/flipperzero-firmware)\
 [Muddled](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)\
@@ -49,7 +47,6 @@ It loves hacking digital stuff like radio protocols, access control systems, and
 [FlipperZero-Goodies](https://github.com/wetox-team/flipperzero-goodies)\
 [T119 bruteforcer](https://github.com/xb8/t119bruteforcer)\
 [flipperzero-bruteforce](https://github.com/tobiabocchi/flipperzero-bruteforce)\
-[UNC0V3R3D BadUSB collection](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)\
 [Flipper-StarNew](https://github.com/GlUTEN-BASH/Flipper-Starnew)\
 [FalsePhilosophers Flipper BadUSB](https://github.com/FalsePhilosopher/badusb)\
 [SerialHex2FlipperZeroInfrared](https://github.com/maehw/SerialHex2FlipperZeroInfrared)
@@ -66,7 +63,6 @@ It loves hacking digital stuff like radio protocols, access control systems, and
 [flipperzero](https://t.me/flipperzero)\
 [flipper_offtopic](https://t.me/flipper_offtopic)\
 [flipperzero_unofficial_ru](https://t.me/flipperzero_unofficial_ru)\
-[flipperzeroitalia](https://t.me/flipperzeroitalia)\
 [FlipperZeroFan](https://t.me/FlipperZeroFan)\
 [Korai Firmware](https://t.me/+XI3ZKU1-cYEwMTU0)\
 [FlipperZeroUnofficialGermany](https://t.me/FlipperZeroUnofficialGermany)\
@@ -76,19 +72,12 @@ It loves hacking digital stuff like radio protocols, access control systems, and
 [flipperzeroNL](https://t.me/flipperzeroNL)\
 [FlipperForum](https://t.me/FlipperForum)\
 [FlipperzeroNLchat](https://t.me/FlipperzeroNLchat)\
-[FlipperZeroChile](https://t.me/FlipperZeroChile)\
 [flipperzero_unofficial_ua](https://t.me/flipperzero_unofficial_ua)\
 [FlipperZeroBG](https://t.me/FlipperZeroBG)\
-[FlipperZeroSell](https://t.me/FlipperZeroSell)\
 [flipperzerouk](https://t.me/flipperzerouk)\
-[flipperzerolegit](https://t.me/flipperzerolegit)\
-[RM Flipper Uncensored](https://discord.gg/Rq2px3td)\
-[FlipperZero Israel](https://discord.gg/D6DqVzeP)\
-[Nicola Selenu](https://discord.gg/FkEVbkhX)\
 [Bork-electronics](https://discord.gg/AVAeRuQTN2)\
 [Flipper Zero Unofficial](https://discord.unleashedflip.com)\
 [Flipper Devices](https://flipperzero.one/)\
-[hto_yak](https://t.me/hto_yak)\
 [esp_es](https://t.me/esp_es)
 
 ### Channels
@@ -97,9 +86,4 @@ It loves hacking digital stuff like radio protocols, access control systems, and
 [FlipperNews](https://t.me/FlipperNews)\
 [kotnehle](https://t.me/kotnehleb)\
 [unleashed_fw](https://t.me/unleashed_fw)\
-[flipperzeroofficial](https://t.me/flipperzeroofficial)\
-[flipperzerocenter](https://t.me/flipperzerocenter)\
-[FlipperZeroBR1](https://t.me/FlipperZeroBR1)\
-[flipperzero_aus](https://t.me/flipperzero_aus)\
-[flipperzero00](https://t.me/flipperzero00)\
-[flipperzero11](https://t.me/flipperzero11)
+[flipperzero_aus](https://t.me/flipperzero_aus)
