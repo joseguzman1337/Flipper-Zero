@@ -2,3 +2,6 @@
 # macOS system files
 .DS_Store
 ._*
+
+actions-runner/
+
